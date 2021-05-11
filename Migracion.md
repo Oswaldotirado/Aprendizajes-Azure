@@ -18,7 +18,7 @@ Se tiene que hacer una evaluacion completa del entorno. Identificar que servidor
 Es una parte del plan para migrar a Azure, el ahorro de costos es un importante tema a recalcar ya que el tralado a la nube ofrece un ahorrode costos con respecto a la 
 ejecucion de una infraestructura local propia
 
-## Identificacion de herraamientas
+## Identificacion de herramientas
 Existen varias herramientas disponibles para ayudar a planear las fases de la migracion,
 puede que una migracion solo necesite usar una o dos herramientas:
 - Azure Migrate
